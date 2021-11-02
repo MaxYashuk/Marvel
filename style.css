@@ -1,0 +1,116 @@
+body{
+    background-color: rgb(27, 25, 25);
+}
+.title{
+    color: red;
+    margin: 10px auto;
+}
+.marvel{
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.marvel_1{
+    width: 300px;
+    height: 200px;
+    background: #95483f;
+    background-image: linear-gradient(90deg, #000004, #160b39, #420a68, #6a176e, #932667, #ba3655, #dd513a, #f3761b, #fca50a, #f6d746, #f6d746);;
+    position: relative;
+    margin: 30px;
+}
+.marvel_2{
+    width: 300px;
+    height: 200px;
+    background: #4a7d70;
+    background-image: linear-gradient(90deg, #440154, #482475, #414487, #355f8d, #2a788e, #21908d, #22a884, #42be71, #7ad151, #bddf26, #bddf26);
+    position: relative;
+    margin: 30px;
+}
+.marvel_3{
+    width: 300px;
+    height: 200px;
+    background: #d46d72;
+    background-image: linear-gradient(90deg, #6e40aa, #963db3, #bf3caf, #e3419e, #fe4b83, #ff5e64, #ff7747, #fb9633, #e2b72f, #c7d63c, #c7d63c);
+    position: relative;
+    margin: 30px;
+}
+.marvel_4{
+    width: 300px;
+    height: 200px;
+    background: #bd9f63;
+    background-image: linear-gradient(90deg, #a50026, #d3322b, #f16d43, #fcab63, #fedc8c, #f9f7ae, #d7ee8e, #a4d86f, #64bc61, #23964f, #23964f);
+    position: relative;
+    margin: 30px;
+}
+.pic1{
+    width: 200px;
+    height: 240px;
+    position: absolute;
+    top: -15px;
+    left: -10px;
+}
+.pic2{
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    top: -15px;
+    left: -30px;
+}
+.pic3{
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    top: -13px;
+    left: -10px;
+}
+.pic4{
+    width: 250px;
+    height: 300px;
+    position: absolute;
+    top: -50px;
+    left: -30px;
+}
+.text1{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+.text2{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+.text3{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+.text4{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+.tex1{
+    position: absolute;
+    top: 60px;
+    right: 15px;
+}
+.tex2{
+    position: absolute;
+    top: 60px;
+    right: 15px;
+}
+.tex3{
+    position: absolute;
+    top: 60px;
+    right: 15px;
+}
+.tex4{
+    position: absolute;
+    top: 60px;
+    right: 15px;
+}
